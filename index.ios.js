@@ -14,7 +14,7 @@ import Header from './src/components/header';
 export default class iOStest extends Component {
   render() {
     return (
-      <Header headerText={'HeaderBaby'}/>
+      <Header headerText={'Albums'}/>
     );
   }
 }
